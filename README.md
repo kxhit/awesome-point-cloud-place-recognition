@@ -5,7 +5,7 @@ For anyone who wants to do research about 3D point cloud based place recognition
 <h1> 
 
 ```diff
-- Recent papers (from 2017)
+- Recent papers (from 2016)
 ```
 
 </h1>
@@ -72,6 +72,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICARCV](https://ieeexplore.ieee.org/document/9305429)] Comparison of camera-based and 3D LiDAR-based place recognition across weather conditions. [__`out.`__ __`pc.`__ __`img.`__]
 
 - [[arXiv](https://arxiv.org/abs/2012.05018)] vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition. [__`out.`__ __`pc.`__ __`img.`__]
+- [[arXiv](https://arxiv.org/abs/2008.00658)] PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition. [__`out.`__ __`pc.`__ __`img.`__]
+
 ---
 ## 2021
 - [[RA-L](https://ieeexplore.ieee.org/document/9359460)] DiSCO: Differentiable Scan Context With Orientation. [[code](https://github.com/MaverickPeter/DiSCO-pytorch)]![Github stars](https://img.shields.io/github/stars/MaverickPeter/DiSCO-pytorch.svg) [__`out.`__ __`pc.`__]
