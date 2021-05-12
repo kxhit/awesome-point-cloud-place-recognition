@@ -13,8 +13,8 @@ For anyone who wants to do research about 3D point cloud based place recognition
 <h3> Keywords </h3>
 
 __`out.`__: outdoor &emsp; | &emsp; __`ind.`__: indoor &emsp;   
-__`pc.`__: point cloud &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`rad.`__: radar &emsp;
-__`pos.`__: pose &emsp; 
+__`pc.`__: point cloud &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`rad.`__: radar &emsp;   
+__`pos.`__: pose &emsp;
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
