@@ -84,7 +84,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[RA-L](https://ieeexplore.ieee.org/document/9361316)] FusionVLAD: A Multi-View Deep Fusion Networks for Viewpoint-Free 3D Place Recognition. [__`out.`__ __`pc.`__]
 
 - [[WACV](https://openaccess.thecvf.com/content/WACV2021/html/Komorowski_MinkLoc3D_Point_Cloud_Based_Large-Scale_Place_Recognition_WACV_2021_paper.html)] MinkLoc3D: Point Cloud Based Large-Scale Place Recognition. [[code](https://github.com/jac99/MinkLoc3D)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLoc3D.svg) [__`out.`__ __`pc.`__]
-- [[IJCNN](https://arxiv.org/abs/2104.05327)] MinkLoc3D: Point Cloud Based Large-Scale Place Recognition. [[code](https://github.com/jac99/MinkLocMultimodal)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLocMultimodal.svg) [__`out.`__ __`pc.`__ __`img.`__]
+- [[IJCNN](https://arxiv.org/abs/2104.05327)] MinkLoc++: Lidar and Monocular Image Fusion for Place Recognition. [[code](https://github.com/jac99/MinkLocMultimodal)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLocMultimodal.svg) [__`out.`__ __`pc.`__ __`img.`__]
 - [[ICCCR](https://ieeexplore.ieee.org/document/9349417)] Weighted Scan Context: Global Descriptor with Sparse Height Feature for Loop Closure Detection. [__`out.`__ __`pc.`__]
 
 - [[arXiv](https://arxiv.org/abs/2101.02374)] Efficient 3D Point Cloud Feature Learning for Large-Scale Place Recognition. [[code](https://github.com/fpthink/EPC-Net)]![Github stars](https://img.shields.io/github/stars/fpthink/EPC-Net.svg) [__`out.`__ __`pc.`__]
