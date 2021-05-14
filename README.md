@@ -30,19 +30,19 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IV](https://ieeexplore.ieee.org/document/8500682)] LocNet: Global Localization in 3D Point Clouds for Mobile Vehicles. [__`out.`__ __`pc.`__]
 - [[RSS](http://www.roboticsproceedings.org/rss14/p03.pdf)] SegMap: 3D Segment Mapping using Data-Driven Descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg) [__`out.`__ __`pc.`__] :fire: :star:
 
-- [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Uy_PointNetVLAD_Deep_Point_CVPR_2018_paper.pdf)] PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [[code](https://github.com/mikacuy/pointnetvlad)]![Github stars](https://img.shields.io/github/stars/mikacuy/pointnetvlad.svg) :fire: :star:
+- [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Uy_PointNetVLAD_Deep_Point_CVPR_2018_paper.pdf)] PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [[code](https://github.com/mikacuy/pointnetvlad)]![Github stars](https://img.shields.io/github/stars/mikacuy/pointnetvlad.svg) [__`out.`__ __`pc.`__] :fire: :star:
 
 
 ---
 ## 2019
-- [[RA-L](https://ieeexplore.ieee.org/document/8633942)] 1-Day Learning, 1-Year Localization: Long-Term LiDAR Localization Using Scan Context Image. [[code](https://github.com/irapkaist/scancontext)]![Github stars](https://img.shields.io/github/stars/irapkaist/scancontext.svg) [__`out.`__ __`pc.`__] :fire:
+- [[RA-L](https://ieeexplore.ieee.org/document/8633942)] 1-Day Learning, 1-Year Localization: Long-Term LiDAR Localization Using Scan Context Image. [[code](https://github.com/irapkaist/scancontext)]![Github stars](https://img.shields.io/github/stars/irapkaist/scancontext.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
 - [[RA-L](https://ieeexplore.ieee.org/document/8618373)] Local Descriptor for Robust Place Recognition Using LiDAR Intensity. [__`out.`__ __`pc.`__]
 - [[RA-L](https://ieeexplore.ieee.org/document/8626476)] Learning to See the Wood for the Trees: Deep Laser Localization in Urban and Natural Environments on a CPU. [__`out.`__ __`pc.`__]
-- [[IROS](https://ieeexplore.ieee.org/document/8968094/)] OREOS: Oriented Recognition of 3D Point Clouds in Outdoor Scenarios. [__`out.`__ __`pc.`__]
+- [[IROS](https://ieeexplore.ieee.org/document/8968094/)] OREOS: Oriented Recognition of 3D Point Clouds in Outdoor Scenarios. [__`out.`__ __`pc.`__ __`pos.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8968140)] Semantically Assisted Loop Closure in SLAM Using NDT Histograms. [__`out.`__ __`pc.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8967875)] SeqLPD: Sequence Matching Enhanced Loop-Closure Detection Based on Large-Scale Point Cloud Description for Self-Driving Vehicles. [__`out.`__ __`pc.`__]
 
-- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_LPD-Net_3D_Point_Cloud_Learning_for_Large-Scale_Place_Recognition_and_ICCV_2019_paper.html)] LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis. [[code](https://github.com/Suoivy/LPD-net)]![Github stars](https://img.shields.io/github/stars/Suoivy/LPD-net.svg) 
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_LPD-Net_3D_Point_Cloud_Learning_for_Large-Scale_Place_Recognition_and_ICCV_2019_paper.html)] LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis. [[code](https://github.com/Suoivy/LPD-net)]![Github stars](https://img.shields.io/github/stars/Suoivy/LPD-net.svg) [__`out.`__ __`pc.`__]
 
 - [[RSS](http://www.roboticsproceedings.org/rss16/p009.pdf)] OverlapNet - Loop Closing for 3D LiDAR-based SLAM. [[code](https://github.com/PRBonn/OverlapNet)]![Github stars](https://img.shields.io/github/stars/PRBonn/OverlapNet.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
 - [[IJRR](https://journals.sagepub.com/doi/abs/10.1177/0278364919863090)] SegMap: Segment-based mapping and localization using data-driven descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg)  [__`out.`__ __`pc.`__] :fire:
@@ -76,7 +76,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2021
-- [[RA-L](https://ieeexplore.ieee.org/document/9359460)] DiSCO: Differentiable Scan Context With Orientation. [[code](https://github.com/MaverickPeter/DiSCO-pytorch)]![Github stars](https://img.shields.io/github/stars/MaverickPeter/DiSCO-pytorch.svg) [__`out.`__ __`pc.`__]
+- [[RA-L](https://ieeexplore.ieee.org/document/9359460)] DiSCO: Differentiable Scan Context With Orientation. [[code](https://github.com/MaverickPeter/DiSCO-pytorch)]![Github stars](https://img.shields.io/github/stars/MaverickPeter/DiSCO-pytorch.svg) [__`out.`__ __`pc.`__ __`pos.`__]
 - [[ICRA](https://arxiv.org/abs/2011.14497)] Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling. [[code](https://github.com/csiro-robotics/locus)]![Github stars](https://img.shields.io/github/stars/csiro-robotics/locus.svg) [__`out.`__ __`pc.`__]
 - [[ICRA](https://arxiv.org/abs/2103.12292)] NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation. [[code](https://github.com/dachengxiaocheng/NDT-Transformer)]![Github stars](https://img.shields.io/github/stars/dachengxiaocheng/NDT-Transformer.svg) [__`out.`__ __`pc.`__]
 - [[ICRA](https://arxiv.org/abs/2103.02111)] Robust Place Recognition using an Imaging Lidar. [[code](https://github.com/TixiaoShan/imaging_lidar_place_recognition)]![Github stars](https://img.shields.io/github/stars/TixiaoShan/imaging_lidar_place_recognition.svg) [__`out.`__ __`pc.`__] :fire:
@@ -85,7 +85,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - [[WACV](https://openaccess.thecvf.com/content/WACV2021/html/Komorowski_MinkLoc3D_Point_Cloud_Based_Large-Scale_Place_Recognition_WACV_2021_paper.html)] MinkLoc3D: Point Cloud Based Large-Scale Place Recognition. [[code](https://github.com/jac99/MinkLoc3D)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLoc3D.svg) [__`out.`__ __`pc.`__]
 - [[IJCNN](https://arxiv.org/abs/2104.05327)] MinkLoc++: Lidar and Monocular Image Fusion for Place Recognition. [[code](https://github.com/jac99/MinkLocMultimodal)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLocMultimodal.svg) [__`out.`__ __`pc.`__ __`img.`__]
-- [[ICCCR](https://ieeexplore.ieee.org/document/9349417)] Weighted Scan Context: Global Descriptor with Sparse Height Feature for Loop Closure Detection. [__`out.`__ __`pc.`__]
+- [[ICCCR](https://ieeexplore.ieee.org/document/9349417)] Weighted Scan Context: Global Descriptor with Sparse Height Feature for Loop Closure Detection. [__`out.`__ __`pc.`__ __`pos.`__]
 
 - [[arXiv](https://arxiv.org/abs/2101.02374)] Efficient 3D Point Cloud Feature Learning for Large-Scale Place Recognition. [[code](https://github.com/fpthink/EPC-Net)]![Github stars](https://img.shields.io/github/stars/fpthink/EPC-Net.svg) [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2103.06713)] Have I been here before? Learning to Close the Loop with LiDAR Data in Graph-Based SLAM. [__`out.`__ __`pc.`__]
