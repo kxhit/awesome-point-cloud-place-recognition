@@ -44,7 +44,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_LPD-Net_3D_Point_Cloud_Learning_for_Large-Scale_Place_Recognition_and_ICCV_2019_paper.html)] LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis. [[code](https://github.com/Suoivy/LPD-net)]![Github stars](https://img.shields.io/github/stars/Suoivy/LPD-net.svg) [__`out.`__ __`pc.`__]
 
-- [[RSS](http://www.roboticsproceedings.org/rss16/p009.pdf)] OverlapNet - Loop Closing for 3D LiDAR-based SLAM. [[code](https://github.com/PRBonn/OverlapNet)]![Github stars](https://img.shields.io/github/stars/PRBonn/OverlapNet.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
 - [[IJRR](https://journals.sagepub.com/doi/abs/10.1177/0278364919863090)] SegMap: Segment-based mapping and localization using data-driven descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg)  [__`out.`__ __`pc.`__] :fire:
 - [[Sensors](https://www.mdpi.com/1424-8220/19/1/23)] Have I Seen This Place Before? A Fast and Robust Loop Detection and Correction Method for 3D Lidar SLAM. [__`out.`__ __`pc.`__]
 - [[TIE](https://ieeexplore.ieee.org/abstract/document/8948317)] Season-Invariant and Viewpoint-Tolerant LiDAR Place Recognition in GPS-Denied Environments. [__`out.`__ __`pc.`__]
@@ -55,7 +54,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2020
-- [[IROS](https://ieeexplore.ieee.org/document/9196764)] Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection. [[code](https://github.com/wh200720041/iscloam)]![Github stars](https://img.shields.io/github/stars/wh200720041/iscloam.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
+- [[RSS](http://www.roboticsproceedings.org/rss16/p009.pdf)] OverlapNet - Loop Closing for 3D LiDAR-based SLAM. [[code](https://github.com/PRBonn/OverlapNet)]![Github stars](https://img.shields.io/github/stars/PRBonn/OverlapNet.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
+- [[ICRA](https://ieeexplore.ieee.org/document/9196764)] Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection. [[code](https://github.com/wh200720041/iscloam)]![Github stars](https://img.shields.io/github/stars/wh200720041/iscloam.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
 - [[IROS](https://ieeexplore.ieee.org/document/9341060)] Semantic Graph Based Place Recognition for 3D Point Clouds. [[code](https://github.com/kxhit/SG_PR)]![Github stars](https://img.shields.io/github/stars/kxhit/SG_PR.svg) [__`out.`__ __`pc.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/9341010)] LiDAR Iris for Loop-Closure Detection. [[code](https://github.com/BigMoWangying/LiDAR-Iris)]![Github stars](https://img.shields.io/github/stars/BigMoWangying/LiDAR-Iris.svg) [__`out.`__ __`pc.`__ __`pos.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/9341517)] Seed: A Segmentation-Based Egocentric 3D Point Cloud Descriptor for Loop Closure Detection. [__`out.`__ __`pc.`__]
