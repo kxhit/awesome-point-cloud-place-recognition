@@ -5,7 +5,7 @@ For anyone who wants to do research about 3D point cloud based place recognition
 <h1> 
 
 ```diff
-- Recent papers (from 2016)
+- Recent papers (from 2015)
 ```
 
 </h1>
@@ -17,6 +17,11 @@ __`pc.`__: point cloud &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`rad.
 __`pos.`__: pose &emsp;
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
+
+---
+## 2015
+- [[IROS](https://ieeexplore.ieee.org/document/7353454)] A Fast Histogram-Based Similarity Measure
+for Detecting Loop Closures in 3-D LIDAR Data. [__`out.`__ __`pc.`__]
 
 ---
 ## 2016
