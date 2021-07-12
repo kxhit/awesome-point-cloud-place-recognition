@@ -47,7 +47,8 @@ for Detecting Loop Closures in 3-D LIDAR Data. [__`out.`__ __`pc.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8968140)] Semantically Assisted Loop Closure in SLAM Using NDT Histograms. [__`out.`__ __`pc.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8967875)] SeqLPD: Sequence Matching Enhanced Loop-Closure Detection Based on Large-Scale Point Cloud Description for Self-Driving Vehicles. [__`out.`__ __`pc.`__]
 
-- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_LPD-Net_3D_Point_Cloud_Learning_for_Large-Scale_Place_Recognition_and_ICCV_2019_paper.html)] LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis. [[code](https://github.com/Suoivy/LPD-net)]![Github stars](https://img.shields.io/github/stars/Suoivy/LPD-net.svg) [__`out.`__ __`pc.`__]
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_PCAN_3D_Attention_Map_Learning_Using_Contextual_Information_for_Point_CVPR_2019_paper.pdf)] PCAN: 3D Attention Map Learning Using Contextual Information for Point. [[code](https://github.com/XLechter/PCAN)]![Github stars](https://img.shields.io/github/stars/XLechter/PCAN.svg) [__`out.`__ __`pc.`__] :star:
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_LPD-Net_3D_Point_Cloud_Learning_for_Large-Scale_Place_Recognition_and_ICCV_2019_paper.html)] LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis. [[code](https://github.com/Suoivy/LPD-net)]![Github stars](https://img.shields.io/github/stars/Suoivy/LPD-net.svg) [__`out.`__ __`pc.`__] :star:
 
 - [[IJRR](https://journals.sagepub.com/doi/abs/10.1177/0278364919863090)] SegMap: Segment-based mapping and localization using data-driven descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg)  [__`out.`__ __`pc.`__] :fire:
 - [[Sensors](https://www.mdpi.com/1424-8220/19/1/23)] Have I Seen This Place Before? A Fast and Robust Loop Detection and Correction Method for 3D Lidar SLAM. [__`out.`__ __`pc.`__]
@@ -70,11 +71,15 @@ for Detecting Loop Closures in 3-D LIDAR Data. [__`out.`__ __`pc.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/9340992)] Voxel-Based Representation Learning for Place Recognition Based on 3D Point Clouds. [__`out.`__ __`pc.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/9341727)] SeqSphereVLAD: Sequence Matching Enhanced Orientation-invariant Place Recognition. [__`out.`__ __`pc.`__]
 
+- [[ECCV](https://arxiv.org/abs/2007.09217)] DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization. [[code](https://github.com/JuanDuGit/DH3D)]![Github stars](https://img.shields.io/github/stars/JuanDuGit/DH3D.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
+
 - [[AR](https://www.tandfonline.com/doi/full/10.1080/01691864.2020.1824809?scroll=top&needAccess=true)] Loop detection for 3D LiDAR SLAM using segment-group matching. [__`out.`__ __`pc.`__]
 - [[TIE](https://ieeexplore.ieee.org/document/9351776)] Fast Sequence-matching Enhanced Viewpoint-invariant 3D Place Recognition. [__`out.`__ __`pc.`__]
 - [[Sensors](https://www.mdpi.com/1424-8220/20/10/2870)] Large-Scale Place Recognition Based on Camera-LiDAR Fused Descriptor. [__`out.`__ __`pc.`__ __`img.`__]
 - [[ICMR](https://dl.acm.org/doi/abs/10.1145/3372278.3390693?casa_token=I_geHtX6nRgAAAAA:LdQ3ZGsk47JEVgCWV7cMCGkQhxNKlw3Lglh0ZJIREZ6VvFKF5ItUPA70EmIaw1HA0rXv-nIAdwuxhA)] DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition. [__`out.`__ __`pc.`__]
 - [[ICARCV](https://ieeexplore.ieee.org/document/9305429)] Comparison of camera-based and 3D LiDAR-based place recognition across weather conditions. [__`out.`__ __`pc.`__ __`img.`__]
+- [[ICMR](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)] DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition. [__`out.`__ __`pc.`__]
+- [[CGF](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14146)] SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion. [__`out.`__ __`pc.`__]
 
 - [[arXiv](https://arxiv.org/abs/2012.05018)] vLPD-Net: A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition. [__`out.`__ __`pc.`__ __`img.`__]
 - [[arXiv](https://arxiv.org/abs/2008.00658)] PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition. [__`out.`__ __`pc.`__ __`img.`__]
@@ -87,6 +92,9 @@ for Detecting Loop Closures in 3-D LIDAR Data. [__`out.`__ __`pc.`__]
 - [[ICRA](https://arxiv.org/abs/2103.02111)] Robust Place Recognition using an Imaging Lidar. [[code](https://github.com/TixiaoShan/imaging_lidar_place_recognition)]![Github stars](https://img.shields.io/github/stars/TixiaoShan/imaging_lidar_place_recognition.svg) [__`out.`__ __`pc.`__] :fire:
 - [[RA-L](https://ieeexplore.ieee.org/document/9185044)] LiPMatch: LiDAR Point Cloud Plane based Loop-Closure. [[code](https://github.com/jiangjianwen/LiPMatch)]![Github stars](https://img.shields.io/github/stars/jiangjianwen/LiPMatch.svg) [__`out.`__ __`pc.`__]
 - [[RA-L](https://ieeexplore.ieee.org/document/9361316)] FusionVLAD: A Multi-View Deep Fusion Networks for Viewpoint-Free 3D Place Recognition. [__`out.`__ __`pc.`__]
+- [[IROS](https://arxiv.org/abs/2107.00382)] SSC: Semantic Scan Context for Large-Scale Place Recognition. [[code](https://github.com/lilin-hitcrt/SSC)]![Github stars](https://img.shields.io/github/stars/lilin-hitcrt/SSC.svg) [__`out.`__ __`pc.`__ __`pos.`__]
+
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_SOE-Net_A_Self-Attention_and_Orientation_Encoding_Network_for_Point_Cloud_CVPR_2021_paper.pdf)] SOE-Net: A Self-Attention and Orientation Encoding Network for Point Cloud based Place Recognition. [[code](https://github.com/Yan-Xia/SOE-Net)]![Github stars](https://img.shields.io/github/stars/Yan-Xia/SOE-Net.svg) [__`out.`__ __`pc.`__]
 
 - [[WACV](https://openaccess.thecvf.com/content/WACV2021/html/Komorowski_MinkLoc3D_Point_Cloud_Based_Large-Scale_Place_Recognition_WACV_2021_paper.html)] MinkLoc3D: Point Cloud Based Large-Scale Place Recognition. [[code](https://github.com/jac99/MinkLoc3D)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLoc3D.svg) [__`out.`__ __`pc.`__]
 - [[IJCNN](https://arxiv.org/abs/2104.05327)] MinkLoc++: Lidar and Monocular Image Fusion for Place Recognition. [[code](https://github.com/jac99/MinkLocMultimodal)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLocMultimodal.svg) [__`out.`__ __`pc.`__ __`img.`__]
@@ -96,4 +104,5 @@ for Detecting Loop Closures in 3-D LIDAR Data. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2101.02374)] Efficient 3D Point Cloud Feature Learning for Large-Scale Place Recognition. [[code](https://github.com/fpthink/EPC-Net)]![Github stars](https://img.shields.io/github/stars/fpthink/EPC-Net.svg) [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2103.06713)] Have I been here before? Learning to Close the Loop with LiDAR Data in Graph-Based SLAM. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/pdf/2103.05056.pdf)] LCDNet: Deep Loop Closure Detection for LiDAR SLAM based on Unbalanced Optimal Transport. [[code](https://github.com/robot-learning-freiburg/LCDNet)]![Github stars](https://img.shields.io/github/stars/robot-learning-freiburg/LCDNet.svg) [__`out.`__ __`pc.`__ __`pos.`__]
-- [[IROS](https://arxiv.org/abs/2107.00382)] SSC: Semantic Scan Context for Large-Scale Place Recognition. [[code](https://github.com/lilin-hitcrt/SSC)]![Github stars](https://img.shields.io/github/stars/lilin-hitcrt/SSC.svg) [__`out.`__ __`pc.`__ __`pos.`__]
+- [[arXiv](https://arxiv.org/abs/2105.00149)] SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition. [__`out.`__ __`pc.`__]
+- [[arXiv](https://arxiv.org/abs/2106.09637)] AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition. [[code](https://github.com/Cybonic/AttDLNet)]![Github stars](https://img.shields.io/github/stars/Cybonic/AttDLNet.svg) [__`out.`__ __`pc.`__]
