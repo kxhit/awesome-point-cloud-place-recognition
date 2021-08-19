@@ -20,8 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2015
-- [[IROS](https://ieeexplore.ieee.org/document/7353454)] A Fast Histogram-Based Similarity Measure
-for Detecting Loop Closures in 3-D LIDAR Data. [__`out.`__ __`pc.`__]
+- [[IROS](https://ieeexplore.ieee.org/document/7353454)] A Fast Histogram-Based Similarity Measure for Detecting Loop Closures in 3-D LIDAR Data. [__`out.`__ __`pc.`__]
 
 ---
 ## 2016
@@ -106,3 +105,4 @@ for Detecting Loop Closures in 3-D LIDAR Data. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/pdf/2103.05056.pdf)] LCDNet: Deep Loop Closure Detection for LiDAR SLAM based on Unbalanced Optimal Transport. [[code](https://github.com/robot-learning-freiburg/LCDNet)]![Github stars](https://img.shields.io/github/stars/robot-learning-freiburg/LCDNet.svg) [__`out.`__ __`pc.`__ __`pos.`__]
 - [[arXiv](https://arxiv.org/abs/2105.00149)] SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2106.09637)] AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition. [[code](https://github.com/Cybonic/AttDLNet)]![Github stars](https://img.shields.io/github/stars/Cybonic/AttDLNet.svg) [__`out.`__ __`pc.`__]
+- [[arXiv](https://arxiv.org/abs/2105.11605)] TransLoc3D : Point Cloud based Large-scale Place Recognition using Adaptive Receptive Fields. [__`out.`__ __`pc.`__]
