@@ -27,10 +27,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://ieeexplore.ieee.org/document/7759060)] M2DP: A novel 3D point cloud descriptor and its application in loop closure detection. [[matlab](https://github.com/LiHeUA/M2DP)]![Github stars](https://img.shields.io/github/stars/LiHeUA/M2DP.svg) [[python](https://github.com/adnan33/M2DP-python)]![Github stars](https://img.shields.io/github/stars/adnan33/M2DP-python.svg) [__`out.`__ __`pc.`__]
 ---
 ## 2017
-
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/7989618)] SegMatch: Segment based place recognition in 3D point clouds. [[code](https://github.com/ZengYeGe/segmatch)]![Github stars](https://img.shields.io/github/stars/ZengYeGe/segmatch.svg) [__`out.`__ __`pc.`__ __`pos.`__]
 ---
 ## 2018
 - [[IROS](https://ieeexplore.ieee.org/document/8593953)] Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map. [[code](https://github.com/irapkaist/scancontext)]![Github stars](https://img.shields.io/github/stars/irapkaist/scancontext.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire: :star:
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/8460940/)] DELIGHT: An Efficient Descriptor for Global Localisation using LiDAR Intensities. [__`out.`__ __`pc.`__ ]
 - [[IV](https://ieeexplore.ieee.org/document/8500682)] LocNet: Global Localization in 3D Point Clouds for Mobile Vehicles. [[model](https://github.com/ZJUYH/LocNet_caffe)]![Github stars](https://img.shields.io/github/stars/ZJUYH/LocNet_caffe.svg) [[code](https://github.com/ZJUYH/LocNet_frontend)]![Github stars](https://img.shields.io/github/stars/ZJUYH/LocNet_frontend.svg) [__`out.`__ __`pc.`__]
 - [[RSS](http://www.roboticsproceedings.org/rss14/p03.pdf)] SegMap: 3D Segment Mapping using Data-Driven Descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg) [__`out.`__ __`pc.`__] :fire: :star:
 
