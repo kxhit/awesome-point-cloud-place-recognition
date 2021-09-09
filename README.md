@@ -5,7 +5,7 @@ For anyone who wants to do research about 3D point cloud based place recognition
 <h1> 
 
 ```diff
-- Recent papers (from 2015)
+- Recent papers (from 2013)
 ```
 
 </h1>
@@ -17,6 +17,11 @@ __`pc.`__: point cloud &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`rad.
 __`pos.`__: pose &emsp;
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
+
+---
+## 2013
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/6630945)] Place recognition using keypoint voting in large 3D lidar datasets. [__`out.`__ __`pc.`__]
+
 
 ---
 ## 2015
