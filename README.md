@@ -31,9 +31,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2018
 - [[IROS](https://ieeexplore.ieee.org/document/8593953)] Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map. [[code](https://github.com/irapkaist/scancontext)]![Github stars](https://img.shields.io/github/stars/irapkaist/scancontext.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire: :star:
-- [[IROS](https://ieeexplore.ieee.org/document/8593562)] Stabilize an Unsupervised Feature Learning for LiDAR-based Place Recognition. [__`out.`__ __`pc.`]
+- [[IROS](https://ieeexplore.ieee.org/document/8593562)] Stabilize an Unsupervised Feature Learning for LiDAR-based Place Recognition. [__`out.`__ __`pc.`__ ]
 - [[ICRA](https://ieeexplore.ieee.org/abstract/document/8460940/)] DELIGHT: An Efficient Descriptor for Global Localisation using LiDAR Intensities. [__`out.`__ __`pc.`__ ]
-- [[IV](https://ieeexplore.ieee.org/document/8500682)] LocNet: Global Localization in 3D Point Clouds for Mobile Vehicles. [[model](https://github.com/ZJUYH/LocNet_caffe)]![Github stars](https://img.shields.io/github/stars/ZJUYH/LocNet_caffe.svg) [[code](https://github.com/ZJUYH/LocNet_frontend)]![Github stars](https://img.shields.io/github/stars/ZJUYH/LocNet_frontend.svg) [__`out.`__ __`pc.`__]
+- [[IV](https://ieeexplore.ieee.org/document/8500682)] LocNet: Global Localization in 3D Point Clouds for Mobile Vehicles. [[model](https://github.com/ZJUYH/LocNet_caffe)]![Github stars](https://img.shields.io/github/stars/ZJUYH/LocNet_caffe.svg) [[code](https://github.com/ZJUYH/LocNet_frontend)]![Github stars](https://img.shields.io/github/stars/ZJUYH/LocNet_frontend.svg) [__`out.`__ __`pc.`__ __`pos.`__]
 - [[RSS](http://www.roboticsproceedings.org/rss14/p03.pdf)] SegMap: 3D Segment Mapping using Data-Driven Descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg) [__`out.`__ __`pc.`__] :fire: :star:
 
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Uy_PointNetVLAD_Deep_Point_CVPR_2018_paper.pdf)] PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [[code](https://github.com/mikacuy/pointnetvlad)]![Github stars](https://img.shields.io/github/stars/mikacuy/pointnetvlad.svg) [__`out.`__ __`pc.`__] :fire: :star:
