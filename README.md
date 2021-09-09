@@ -37,7 +37,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## 2018
 - [[IROS](https://ieeexplore.ieee.org/document/8593953)] Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map. [[code](https://github.com/irapkaist/scancontext)]![Github stars](https://img.shields.io/github/stars/irapkaist/scancontext.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire: :star:
 - [[IROS](https://ieeexplore.ieee.org/document/8593562)] Stabilize an Unsupervised Feature Learning for LiDAR-based Place Recognition. [__`out.`__ __`pc.`__ ]
-- [[IROS](https://ieeexplore.ieee.org/abstract/document/8594042)] Seeing the Wood for the Trees: Reliable Localization in Urban and Natural Environments. [__`out.`__ __`pc.`__ ]
+- [[IROS](https://ieeexplore.ieee.org/abstract/document/8594042)] Seeing the Wood for the Trees: Reliable Localization in Urban and Natural Environments. [__`out.`__ __`pc.`__ __`pos.`__]
 - [[ICRA](https://ieeexplore.ieee.org/abstract/document/8460940/)] DELIGHT: An Efficient Descriptor for Global Localisation using LiDAR Intensities. [__`out.`__ __`pc.`__ ]
 - [[IV](https://ieeexplore.ieee.org/document/8500682)] LocNet: Global Localization in 3D Point Clouds for Mobile Vehicles. [[model](https://github.com/ZJUYH/LocNet_caffe)]![Github stars](https://img.shields.io/github/stars/ZJUYH/LocNet_caffe.svg) [[code](https://github.com/ZJUYH/LocNet_frontend)]![Github stars](https://img.shields.io/github/stars/ZJUYH/LocNet_frontend.svg) [__`out.`__ __`pc.`__ __`pos.`__]
 - [[RSS](http://www.roboticsproceedings.org/rss14/p03.pdf)] SegMap: 3D Segment Mapping using Data-Driven Descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg) [__`out.`__ __`pc.`__] :fire: :star:
@@ -49,7 +49,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## 2019
 - [[RA-L](https://ieeexplore.ieee.org/document/8633942)] 1-Day Learning, 1-Year Localization: Long-Term LiDAR Localization Using Scan Context Image. [[code](https://github.com/irapkaist/scancontext)]![Github stars](https://img.shields.io/github/stars/irapkaist/scancontext.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
 - [[RA-L](https://ieeexplore.ieee.org/document/8618373)] Local Descriptor for Robust Place Recognition Using LiDAR Intensity. [__`out.`__ __`pc.`__]
-- [[RA-L](https://ieeexplore.ieee.org/document/8626476)] Learning to See the Wood for the Trees: Deep Laser Localization in Urban and Natural Environments on a CPU. [__`out.`__ __`pc.`__]
+- [[RA-L](https://ieeexplore.ieee.org/document/8626476)] Learning to See the Wood for the Trees: Deep Laser Localization in Urban and Natural Environments on a CPU. [__`out.`__ __`pc.`__ __`pos.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8968094/)] OREOS: Oriented Recognition of 3D Point Clouds in Outdoor Scenarios. [__`out.`__ __`pc.`__ __`pos.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8968140)] Semantically Assisted Loop Closure in SLAM Using NDT Histograms. [__`out.`__ __`pc.`__]
 - [[IROS](https://ieeexplore.ieee.org/document/8967875)] SeqLPD: Sequence Matching Enhanced Loop-Closure Detection Based on Large-Scale Point Cloud Description for Self-Driving Vehicles. [__`out.`__ __`pc.`__]
