@@ -20,7 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2013
-- [[ICRA](https://ieeexplore.ieee.org/abstract/document/6630945)] Place recognition using keypoint voting in large 3D lidar datasets. [__`out.`__ __`pc.`__]
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/6630945)] Place recognition using keypoint voting in large 3D lidar datasets. [__`out.`__ __`pc.`__] :star:
 
 
 ---
@@ -29,10 +29,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2016
-- [[IROS](https://ieeexplore.ieee.org/document/7759060)] M2DP: A novel 3D point cloud descriptor and its application in loop closure detection. [[matlab](https://github.com/LiHeUA/M2DP)]![Github stars](https://img.shields.io/github/stars/LiHeUA/M2DP.svg) [[python](https://github.com/adnan33/M2DP-python)]![Github stars](https://img.shields.io/github/stars/adnan33/M2DP-python.svg) [__`out.`__ __`pc.`__]
+- [[IROS](https://ieeexplore.ieee.org/document/7759060)] M2DP: A novel 3D point cloud descriptor and its application in loop closure detection. [[matlab](https://github.com/LiHeUA/M2DP)]![Github stars](https://img.shields.io/github/stars/LiHeUA/M2DP.svg) [[python](https://github.com/adnan33/M2DP-python)]![Github stars](https://img.shields.io/github/stars/adnan33/M2DP-python.svg) [__`out.`__ __`pc.`__] :star:
 ---
 ## 2017
-- [[ICRA](https://ieeexplore.ieee.org/abstract/document/7989618)] SegMatch: Segment based place recognition in 3D point clouds. [[code](https://github.com/ZengYeGe/segmatch)]![Github stars](https://img.shields.io/github/stars/ZengYeGe/segmatch.svg) [__`out.`__ __`pc.`__ __`pos.`__]
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/7989618)] SegMatch: Segment based place recognition in 3D point clouds. [[code](https://github.com/ZengYeGe/segmatch)]![Github stars](https://img.shields.io/github/stars/ZengYeGe/segmatch.svg) [__`out.`__ __`pc.`__ __`pos.`__] :star:
 ---
 ## 2018
 - [[IROS](https://ieeexplore.ieee.org/document/8593953)] Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map. [[code](https://github.com/irapkaist/scancontext)]![Github stars](https://img.shields.io/github/stars/irapkaist/scancontext.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire: :star:
