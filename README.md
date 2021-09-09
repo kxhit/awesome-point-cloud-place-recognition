@@ -119,4 +119,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2105.00149)] SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2106.09637)] AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition. [[code](https://github.com/Cybonic/AttDLNet)]![Github stars](https://img.shields.io/github/stars/Cybonic/AttDLNet.svg) [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2105.11605)] TransLoc3D : Point Cloud based Large-scale Place Recognition using Adaptive Receptive Fields. [[code](https://github.com/slothfulxtx/TransLoc3D)]![Github stars](https://img.shields.io/github/stars/slothfulxtx/TransLoc3D.svg) [__`out.`__ __`pc.`__]
-- [[arXiv](https://arxiv.org/abs/2107.14715)] SemSegMap- 3D Segment-Based Semantic Localization. [__`out.`__ __`pc.`__ __`pos.`__]
+- [[arXiv](https://arxiv.org/abs/2107.14715)] SemSegMap- 3D Segment-Based Semantic Localization. [__`out.`__ __`img.`__ __`pc.`__ __`pos.`__]
