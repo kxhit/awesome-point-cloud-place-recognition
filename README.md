@@ -43,7 +43,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[RSS](http://www.roboticsproceedings.org/rss14/p03.pdf)] SegMap: 3D Segment Mapping using Data-Driven Descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg) [__`out.`__ __`pc.`__] :fire: :star:
 
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Uy_PointNetVLAD_Deep_Point_CVPR_2018_paper.pdf)] PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [[code](https://github.com/mikacuy/pointnetvlad)]![Github stars](https://img.shields.io/github/stars/mikacuy/pointnetvlad.svg) [__`out.`__ __`pc.`__] :fire: :star:
-
+- [[Sensors](https://www.mdpi.com/1424-8220/19/1/23)] Have I Seen This Place Before? A Fast and Robust Loop Detection and Correction Method for 3D Lidar SLAM. [__`out.`__ __`pc.`__]
 
 ---
 ## 2019
@@ -58,7 +58,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_LPD-Net_3D_Point_Cloud_Learning_for_Large-Scale_Place_Recognition_and_ICCV_2019_paper.html)] LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis. [[code](https://github.com/Suoivy/LPD-net)]![Github stars](https://img.shields.io/github/stars/Suoivy/LPD-net.svg) [__`out.`__ __`pc.`__] :star:
 
 - [[IJRR](https://journals.sagepub.com/doi/abs/10.1177/0278364919863090)] SegMap: Segment-based mapping and localization using data-driven descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg)  [__`out.`__ __`pc.`__] :fire:
-- [[Sensors](https://www.mdpi.com/1424-8220/19/1/23)] Have I Seen This Place Before? A Fast and Robust Loop Detection and Correction Method for 3D Lidar SLAM. [__`out.`__ __`pc.`__]
 - [[TIE](https://ieeexplore.ieee.org/abstract/document/8948317)] Season-Invariant and Viewpoint-Tolerant LiDAR Place Recognition in GPS-Denied Environments. [__`out.`__ __`pc.`__]
 
 - [[arXiv](https://arxiv.org/abs/1909.11811)] A fast, complete, point cloud based loop closure for LiDAR odometry and mapping. [[code](https://github.com/hku-mars/loam_livox)]![Github stars](https://img.shields.io/github/stars/hku-mars/loam_livox.svg) [__`out.`__ __`pc.`__] :fire:
