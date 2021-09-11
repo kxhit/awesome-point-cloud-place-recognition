@@ -43,7 +43,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[RSS](http://www.roboticsproceedings.org/rss14/p03.pdf)] SegMap: 3D Segment Mapping using Data-Driven Descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg) [__`out.`__ __`pc.`__] :fire: :star:
 
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Uy_PointNetVLAD_Deep_Point_CVPR_2018_paper.pdf)] PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [[code](https://github.com/mikacuy/pointnetvlad)]![Github stars](https://img.shields.io/github/stars/mikacuy/pointnetvlad.svg) [__`out.`__ __`pc.`__] :fire: :star:
-- [[Sensors](https://www.mdpi.com/1424-8220/19/1/23)] Have I Seen This Place Before? A Fast and Robust Loop Detection and Correction Method for 3D Lidar SLAM. [__`out.`__ __`pc.`__]
+- [[Sensors](https://www.mdpi.com/1424-8220/19/1/23)] Have I Seen This Place Before? A Fast and Robust Loop Detection and Correction Method for 3D Lidar SLAM. [[code](https://github.com/michielvlaminck/m2dp-gpu)]![Github stars](https://img.shields.io/github/stars/michielvlaminck/m2dp-gpu.svg) [__`out.`__ __`pc.`__]
 
 ---
 ## 2019
