@@ -29,7 +29,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2011
-- [[SSRR](https://ieeexplore.ieee.org/document/6106765)] Loop closure detection using small-sized signatures from 3D LIDAR data. [__`out.`__ __`pc.`__ __]
+- [[SSRR](https://ieeexplore.ieee.org/document/6106765)] Loop closure detection using small-sized signatures from 3D LIDAR data. [__`out.`__ __`pc.`__]
 
 ---
 ## 2012
