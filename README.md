@@ -19,9 +19,27 @@ __`pos.`__: pose &emsp;
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
 ---
+## 2009
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/5152712)] Appearance-Based Loop Detection from 3D Laser Data Using the Normal Distributions Transform. [__`out.`__ __`pc.`__] :star:
+- [[JFR](https://doi.org/10.1002/rob.20314)] Automatic appearance-based loop detection from three-dimensional laser data using the normal distributions transform. [__`out.`__ __`pc.`__] :star:
+
+---
+## 2010
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/5509401)] Robust place recognition for 3D range data based on point features. [__`out.`__ __`pc.`__ __] :star:
+
+---
+## 2011
+- [[SSRR](https://ieeexplore.ieee.org/document/6106765)] Loop closure detection using small-sized signatures from 3D LIDAR data. [__`out.`__ __`pc.`__ __]
+
+---
+## 2012
+- [[UST](https://doi.org/10.1117/12.918760)] Real-time lidar-based place recognition using distinctive shape descriptors. [__`out.`__ __`pc.`__ __`img.`__ __`pos.`__] 
+- [[TIM](https://doi.org/10.1117/12.918760)] 3-D-Laser-Based Scene Measurement and Place Recognition for Mobile Robots in Dynamic Indoor Environments. [__`ind.`__ __`pc.`__] 
+
+
+---
 ## 2013
 - [[ICRA](https://ieeexplore.ieee.org/abstract/document/6630945)] Place recognition using keypoint voting in large 3D lidar datasets. [__`out.`__ __`pc.`__] :star:
-
 
 ---
 ## 2015
@@ -44,6 +62,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Uy_PointNetVLAD_Deep_Point_CVPR_2018_paper.pdf)] PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition. [[code](https://github.com/mikacuy/pointnetvlad)]![Github stars](https://img.shields.io/github/stars/mikacuy/pointnetvlad.svg) [__`out.`__ __`pc.`__] :fire: :star:
 - [[Sensors](https://www.mdpi.com/1424-8220/19/1/23)] Have I Seen This Place Before? A Fast and Robust Loop Detection and Correction Method for 3D Lidar SLAM. [[code](https://github.com/michielvlaminck/m2dp-gpu)]![Github stars](https://img.shields.io/github/stars/michielvlaminck/m2dp-gpu.svg) [__`out.`__ __`pc.`__]
+- [[Sensors](https://ieeexplore.ieee.org/abstract/document/8316929)] Robust Place Recognition and Loop Closing in Laser-Based SLAM for UGVs in Urban Environments. [__`out.`__ __`pc.`__]
+
 
 ---
 ## 2019
@@ -59,7 +79,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - [[IJRR](https://journals.sagepub.com/doi/abs/10.1177/0278364919863090)] SegMap: Segment-based mapping and localization using data-driven descriptors. [[code](https://github.com/ethz-asl/segmap)]![Github stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg)  [__`out.`__ __`pc.`__] :fire:
 - [[TIE](https://ieeexplore.ieee.org/abstract/document/8948317)] Season-Invariant and Viewpoint-Tolerant LiDAR Place Recognition in GPS-Denied Environments. [__`out.`__ __`pc.`__]
-
 - [[arXiv](https://arxiv.org/abs/1909.11811)] A fast, complete, point cloud based loop closure for LiDAR odometry and mapping. [[code](https://github.com/hku-mars/loam_livox)]![Github stars](https://img.shields.io/github/stars/hku-mars/loam_livox.svg) [__`out.`__ __`pc.`__] :fire:
 
 
@@ -79,9 +98,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - [[ECCV](https://arxiv.org/abs/2007.09217)] DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization. [[code](https://github.com/JuanDuGit/DH3D)]![Github stars](https://img.shields.io/github/stars/JuanDuGit/DH3D.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
 
+- [[RAS](https://www.sciencedirect.com/science/article/pii/S0921889019302635)] Global matching of point clouds for scan registration and loop detection. [__`out.`__ __`pc.`__]
 - [[AR](https://www.tandfonline.com/doi/full/10.1080/01691864.2020.1824809?scroll=top&needAccess=true)] Loop detection for 3D LiDAR SLAM using segment-group matching. [__`out.`__ __`pc.`__]
 - [[TIE](https://ieeexplore.ieee.org/document/9351776)] Fast Sequence-matching Enhanced Viewpoint-invariant 3D Place Recognition. [__`out.`__ __`pc.`__]
 - [[Sensors](https://www.mdpi.com/1424-8220/20/10/2870)] Large-Scale Place Recognition Based on Camera-LiDAR Fused Descriptor. [__`out.`__ __`pc.`__ __`img.`__]
+- [[Sensors](https://doi.org/10.3390/s20082299)] A Novel Loop Closure Detection Approach Using Simplified Structure for Low-Cost LiDAR. [__`ind.`__ __`pc.`__]
+
 - [[ICARCV](https://ieeexplore.ieee.org/document/9305429)] Comparison of camera-based and 3D LiDAR-based place recognition across weather conditions. [__`out.`__ __`pc.`__ __`img.`__]
 - [[ICMR](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)] DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition. [__`out.`__ __`pc.`__]
 - [[CGF](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14146)] SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion. [__`out.`__ __`pc.`__]
