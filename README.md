@@ -5,7 +5,7 @@ For anyone who wants to do research about 3D point cloud based place recognition
 <h1> 
 
 ```diff
-- Recent papers (from 2013)
+- Recent papers (from 2009)
 ```
 
 </h1>
