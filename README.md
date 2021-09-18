@@ -25,7 +25,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2010
-- [[ICRA](https://ieeexplore.ieee.org/abstract/document/5509401)] Robust place recognition for 3D range data based on point features. [__`out.`__ __`pc.`__] :star:
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/5509401)] Robust place recognition for 3D range data based on point features. [__`out.`__ __`pc.`__ __`pos.`__] :star:
 
 ---
 ## 2011
