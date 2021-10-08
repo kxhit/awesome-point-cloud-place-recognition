@@ -137,6 +137,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[AIM](https://arxiv.org/abs/2103.06713)] Have I been here before? Learning to Close the Loop with LiDAR Data in Graph-Based SLAM. [[code](https://github.com/MarvinStuede/Sobi)]![Github stars](https://img.shields.io/github/stars/MarvinStuede/Sobi.svg) [__`out.`__ __`pc.`__]
 - [[AIM](https://ieeexplore.ieee.org/abstract/document/9517663)] Global Place Recognition using An Improved Scan Context for LIDAR-based Localization System. [__`out.`__ __`pc.`__]
 - [[IJAG](https://www.sciencedirect.com/science/article/pii/S0303243421001379?via%3Dihub)] FastLCD: A fast and compact loop closure detection approach using 3D point cloud for indoor mobile mapping. [__`ind.`__ __`pc.`__]
+- [[T-RO](https://arxiv.org/pdf/2109.13494.pdf)] Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments. [__`out.`__ __`pc.`__ __`pos.`__]
 
 - [[arXiv](https://arxiv.org/abs/2101.02374)] Efficient 3D Point Cloud Feature Learning for Large-Scale Place Recognition. [[code](https://github.com/fpthink/EPC-Net)]![Github stars](https://img.shields.io/github/stars/fpthink/EPC-Net.svg) [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/pdf/2103.05056.pdf)] LCDNet: Deep Loop Closure Detection for LiDAR SLAM based on Unbalanced Optimal Transport. [[code](https://github.com/robot-learning-freiburg/LCDNet)]![Github stars](https://img.shields.io/github/stars/robot-learning-freiburg/LCDNet.svg) [__`out.`__ __`pc.`__ __`pos.`__]
