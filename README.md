@@ -146,3 +146,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2105.11605)] TransLoc3D : Point Cloud based Large-scale Place Recognition using Adaptive Receptive Fields. [[code](https://github.com/slothfulxtx/TransLoc3D)]![Github stars](https://img.shields.io/github/stars/slothfulxtx/TransLoc3D.svg) [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2109.08652)] AutoPlace: Robust Place Recognition with Low-cost Single-chip Automotive Radar. [[code](https://github.com/ramdrop/AutoPlace)]![Github stars](https://img.shields.io/github/stars/ramdrop/AutoPlace.svg) [__`out.`__ __`pc.`__ __`rad.`__]
 - [[arXiv](https://arxiv.org/abs/2108.12790)] Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition. [__`out.`__ __`pc.`__]
+- [[arXiv](https://arxiv.org/pdf/2111.00440)] Loop closure detection using local 3D deep descriptors. [__`out.`__ __`ind.`__ __`pc.`__ __`pos.`__]
