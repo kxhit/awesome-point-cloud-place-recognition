@@ -148,3 +148,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2108.12790)] Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/pdf/2111.00440)] Loop closure detection using local 3D deep descriptors. [__`out.`__ __`ind.`__ __`pc.`__ __`pos.`__]
 - [[arXiv](https://arxiv.org/pdf/2111.13838)] DSC: Deep Scan Context Descriptor for Large-Scale Place Recognition. [__`out.`__ __`pc.`__]
+
+
+---
+## 2022
+- [[RA-L](https://arxiv.org/abs/2112.06539)] MinkLoc3D-SI: 3D LiDAR place recognition with sparse convolutions, spherical coordinates, and intensity. [__`out.`__ __`pc.`__]
+
