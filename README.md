@@ -152,5 +152,5 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2022
-- [[RA-L](https://arxiv.org/abs/2112.06539)] MinkLoc3D-SI: 3D LiDAR place recognition with sparse convolutions, spherical coordinates, and intensity. [__`out.`__ __`pc.`__]
+- [[RA-L](https://ieeexplore.ieee.org/abstract/document/9661423)] MinkLoc3D-SI: 3D LiDAR Place Recognition With Sparse Convolutions, Spherical Coordinates, and Intensity. [[code](https://github.com/KamilZywanowski/MinkLoc3D-SI)]![Github stars](https://img.shields.io/github/stars/KamilZywanowski/MinkLoc3D-SI.svg) [__`out.`__ __`pc.`__]
 
