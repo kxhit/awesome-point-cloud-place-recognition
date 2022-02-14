@@ -153,4 +153,5 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2022
 - [[RA-L](https://ieeexplore.ieee.org/abstract/document/9661423)] MinkLoc3D-SI: 3D LiDAR Place Recognition With Sparse Convolutions, Spherical Coordinates, and Intensity. [[code](https://github.com/KamilZywanowski/MinkLoc3D-SI)]![Github stars](https://img.shields.io/github/stars/KamilZywanowski/MinkLoc3D-SI.svg) [__`out.`__ __`pc.`__]
+- [[RA-L](https://ieeexplore.ieee.org/document/9712221)] RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network. [[code](https://github.com/lilin-hitcrt/RINet)]![Github stars](https://img.shields.io/github/stars/lilin-hitcrt/RINet.svg) [__`out.`__ __`pc.`__]
 
