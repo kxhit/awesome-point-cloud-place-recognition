@@ -151,6 +151,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2022
+- [[ICRA](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/wiesmann2022icra.pdf)] Retriever: Point Cloud Retrieval in Compressed 3D Maps. [[code](https://github.com/PRBonn/retriever)]![Github stars](https://img.shields.io/github/stars/PRBonn/retriever.svg) [__`out.`__ __`pc.`__]
 - [[ICRA](https://arxiv.org/abs/2109.08652)] AutoPlace: Robust Place Recognition with Low-cost Single-chip Automotive Radar. [[code](https://github.com/ramdrop/AutoPlace)]![Github stars](https://img.shields.io/github/stars/ramdrop/AutoPlace.svg) [__`out.`__ __`pc.`__ __`rad.`__]
 - [[RA-L](https://ieeexplore.ieee.org/abstract/document/9661423)] MinkLoc3D-SI: 3D LiDAR Place Recognition With Sparse Convolutions, Spherical Coordinates, and Intensity. [[code](https://github.com/KamilZywanowski/MinkLoc3D-SI)]![Github stars](https://img.shields.io/github/stars/KamilZywanowski/MinkLoc3D-SI.svg) [__`out.`__ __`pc.`__]
 - [[RA-L](https://ieeexplore.ieee.org/document/9712221)] RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network. [[code](https://github.com/lilin-hitcrt/RINet)]![Github stars](https://img.shields.io/github/stars/lilin-hitcrt/RINet.svg) [__`out.`__ __`pc.`__]
