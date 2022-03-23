@@ -144,7 +144,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2105.00149)] SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2106.09637)] AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition. [[code](https://github.com/Cybonic/AttDLNet)]![Github stars](https://img.shields.io/github/stars/Cybonic/AttDLNet.svg) [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2105.11605)] TransLoc3D : Point Cloud based Large-scale Place Recognition using Adaptive Receptive Fields. [[code](https://github.com/slothfulxtx/TransLoc3D)]![Github stars](https://img.shields.io/github/stars/slothfulxtx/TransLoc3D.svg) [__`out.`__ __`pc.`__]
-- [[arXiv](https://arxiv.org/abs/2109.08652)] AutoPlace: Robust Place Recognition with Low-cost Single-chip Automotive Radar. [[code](https://github.com/ramdrop/AutoPlace)]![Github stars](https://img.shields.io/github/stars/ramdrop/AutoPlace.svg) [__`out.`__ __`pc.`__ __`rad.`__]
 - [[arXiv](https://arxiv.org/abs/2108.12790)] Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/pdf/2111.00440)] Loop closure detection using local 3D deep descriptors. [__`out.`__ __`ind.`__ __`pc.`__ __`pos.`__]
 - [[arXiv](https://arxiv.org/pdf/2111.13838)] DSC: Deep Scan Context Descriptor for Large-Scale Place Recognition. [__`out.`__ __`pc.`__]
@@ -152,6 +151,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2022
+- [[ICRA](https://arxiv.org/abs/2109.08652)] AutoPlace: Robust Place Recognition with Low-cost Single-chip Automotive Radar. [[code](https://github.com/ramdrop/AutoPlace)]![Github stars](https://img.shields.io/github/stars/ramdrop/AutoPlace.svg) [__`out.`__ __`pc.`__ __`rad.`__]
 - [[RA-L](https://ieeexplore.ieee.org/abstract/document/9661423)] MinkLoc3D-SI: 3D LiDAR Place Recognition With Sparse Convolutions, Spherical Coordinates, and Intensity. [[code](https://github.com/KamilZywanowski/MinkLoc3D-SI)]![Github stars](https://img.shields.io/github/stars/KamilZywanowski/MinkLoc3D-SI.svg) [__`out.`__ __`pc.`__]
 - [[RA-L](https://ieeexplore.ieee.org/document/9712221)] RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network. [[code](https://github.com/lilin-hitcrt/RINet)]![Github stars](https://img.shields.io/github/stars/lilin-hitcrt/RINet.svg) [__`out.`__ __`pc.`__]
-
+- [[PRL](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000782)] SC-LPR: Spatiotemporal context based LiDAR place recognition. [[code](https://github.com/Daideyun/SC-LPR)]![Github stars](https://img.shields.io/github/stars/Daideyun/SC-LPR.svg) [__`out.`__ __`pc.`__]
+- [[arXiv](https://arxiv.org/abs/2203.03397)] OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition. [[code](https://github.com/haomo-ai/OverlapTransformer)]![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg) [__`out.`__ __`pc.`__]
+- [[arXiv](https://arxiv.org/abs/2203.00807)] InCloud: Incremental Learning for Point Cloud Place Recognition. [__`out.`__ __`pc.`__]
+- [[arXiv](https://arxiv.org/abs/2203.00972)] Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training
+. [[code](https://github.com/jac99/MinkLoc3Dv2)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLoc3Dv2.svg) [__`out.`__ __`pc.`__]
