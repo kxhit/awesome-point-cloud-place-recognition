@@ -160,7 +160,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[RA-L](https://ieeexplore.ieee.org/document/9785497)] OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition. [[code](https://github.com/haomo-ai/OverlapTransformer)]![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg) [__`out.`__ __`pc.`__]
 - [[PRL](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000782)] SC-LPR: Spatiotemporal context based LiDAR place recognition. [[code](https://github.com/Daideyun/SC-LPR)]![Github stars](https://img.shields.io/github/stars/Daideyun/SC-LPR.svg) [__`out.`__ __`pc.`__]
 - [[IJPRS](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001447)] A LiDAR-based single-shot global localization solution using a cross-section shape context descriptor. [[code](https://github.com/Dongxu05/CSSC)]![Github stars](https://img.shields.io/github/stars/Dongxu05/CSSC.svg) [__`out.`__ __`pc.`__]
-- [[arXiv](https://arxiv.org/abs/2203.00807)] InCloud: Incremental Learning for Point Cloud Place Recognition. [__`out.`__ __`pc.`__]
-- [[arXiv](https://arxiv.org/abs/2203.00972)] Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training
+- [[ICPR](https://arxiv.org/abs/2203.00972)] Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training
 . [[code](https://github.com/jac99/MinkLoc3Dv2)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLoc3Dv2.svg) [__`out.`__ __`pc.`__]
+- [[arXiv](https://arxiv.org/abs/2203.00807)] InCloud: Incremental Learning for Point Cloud Place Recognition. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2206.03062)] Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map. [__`out.`__ __`pc.`__ __`pos.`__]
