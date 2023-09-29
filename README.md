@@ -167,4 +167,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2023
-- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf)] CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition. [[code](https://github.com/rayguan97/crossloc3d)]![Github stars](https://img.shields.io/github/stars/rayguan97/crossloc3d.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf)] CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition. [[code](https://github.com/rayguan97/crossloc3d)]![Github stars](https://img.shields.io/github/stars/rayguan97/crossloc3d.svg) [__`out.`__ __`pc.`__ __`pos.`__]
