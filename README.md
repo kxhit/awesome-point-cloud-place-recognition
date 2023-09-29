@@ -164,3 +164,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 . [[code](https://github.com/jac99/MinkLoc3Dv2)]![Github stars](https://img.shields.io/github/stars/jac99/MinkLoc3Dv2.svg) [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2203.00807)] InCloud: Incremental Learning for Point Cloud Place Recognition. [__`out.`__ __`pc.`__]
 - [[arXiv](https://arxiv.org/abs/2206.03062)] Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map. [__`out.`__ __`pc.`__ __`pos.`__]
+
+---
+## 2023
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf)] CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition. [[code](https://github.com/rayguan97/crossloc3d)]![Github stars](https://img.shields.io/github/stars/rayguan97/crossloc3d.svg) [__`out.`__ __`pc.`__ __`pos.`__] :fire:
