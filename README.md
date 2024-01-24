@@ -111,7 +111,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2021
-- [[ICRA](https://ieeexplore.ieee.org/abstract/document/9560915)] Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling. [[code](https://github.com/csiro-robotics/locus)]![Github stars](https://img.shields.io/github/stars/csiro-robotics/locus.svg) [__`out.`__ __`pc.`__]
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/9560915)] Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling. [[code](https://github.com/csiro-robotics/locus)]![Github stars](https://img.shields.io/github/stars/csiro-robotics/locus.svg) [__`out.`__ __`pc.`__] :fire: :star:
 - [[ICRA](https://ieeexplore.ieee.org/abstract/document/9560932)] NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation. [[code](https://github.com/dachengxiaocheng/NDT-Transformer)]![Github stars](https://img.shields.io/github/stars/dachengxiaocheng/NDT-Transformer.svg) [__`out.`__ __`pc.`__]
 - [[ICRA](https://ieeexplore.ieee.org/abstract/document/9562105)] Robust Place Recognition using an Imaging Lidar. [[code](https://github.com/TixiaoShan/imaging_lidar_place_recognition)]![Github stars](https://img.shields.io/github/stars/TixiaoShan/imaging_lidar_place_recognition.svg) [__`out.`__ __`pc.`__] :fire:
 - [[RA-L](https://ieeexplore.ieee.org/document/9359460)] DiSCO: Differentiable Scan Context With Orientation. [[code](https://github.com/MaverickPeter/DiSCO-pytorch)]![Github stars](https://img.shields.io/github/stars/MaverickPeter/DiSCO-pytorch.svg) [__`out.`__ __`pc.`__ __`pos.`__]
@@ -168,3 +168,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2023
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf)] CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition. [[code](https://github.com/rayguan97/crossloc3d)]![Github stars](https://img.shields.io/github/stars/rayguan97/crossloc3d.svg) [__`out.`__ __`pc.`__ __`pos.`__]
+- [[RA-L](https://ieeexplore.ieee.org/document/10065560)] Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization. [[code](https://github.com/csiro-robotics/SpectralGV)]![Github stars](https://img.shields.io/github/stars/csiro-robotics/SpectralGV.svg) [__`out.`__ __`pc.`__ __`pos.`__]
